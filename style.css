@@ -1,0 +1,102 @@
+.section{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 80px;
+    padding-right: 30px;
+}
+.section-description{
+    padding-left: 100px;
+}
+.section-text{
+    font-size: 70px;
+    padding-top: 180px;
+}
+.color{
+    color:coral;
+}
+.section-text2{
+    font-size: 25px;
+}
+.section-btn{
+    width: 190px;
+    height: 70px;
+    border-radius: 40px;
+    background-color: coral;
+    
+}
+.section-link{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.section2{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-image: url(./images/Frame\ 59\ copy.jpg);
+    background-size:cover;
+}
+.section2-overlay{
+    padding: 150px 300px 400px 800px;
+}
+.s2-title{
+    font-size: 80px;
+}
+.s2-text{
+    font-size: 20px
+}
+.section3{
+
+    width:500px;
+    border: 1px solid gray;
+    padding: 10px;
+    box-shadow: 17px 9px 15px 10px gray;
+    border-radius: 20px;
+    border-color: white;
+    
+ 
+    
+}
+.section3-img img{
+    height: 270px;
+    width: 450px;
+}
+.section3-img{
+    padding-left: 15px;
+}
+.section31{
+    display: flex;
+    justify-content: space-evenly;
+}
+.section4{
+    width: 1000px;
+    border: 1px solid white;
+    box-shadow: 17px 6px 15px 10px gray;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+    margin-left: 200px;
+    padding: 40px;
+}
+.section5{
+    align-items: center;
+    background-color: darkgrey ;
+    color: white;
+      text-align: center;
+      padding: 60px;
+}
+body{
+    margin: 0px;
+}
+.sub-section{
+    text-align: center;
+     margin: 100px;
+}
+#sub1{
+    font-size: 50px;
+}
+.sub2{
+    font-size: 20px;
+    
+}
